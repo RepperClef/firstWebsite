@@ -1,0 +1,14 @@
+body{
+  padding: 25px;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: sans-serif;
+}
+.title {
+	color: #5C6AC4;
+}
+
+button {
+  color: #5C6AC4;
+  background-color: #000000;
+}
